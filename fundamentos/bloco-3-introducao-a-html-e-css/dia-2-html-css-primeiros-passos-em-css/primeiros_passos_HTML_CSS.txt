@@ -5,3 +5,10 @@ Changes not staged for commit:
   (use "git checkout -- <file>..." to discard changes in working directory)
 
   
+# Se quiser adicionar os arquivos individualmente
+$ git add caminhoParaArquivo
+
+# Se quiser adicionar todos os arquivos de uma vez, porém, atente-se
+para não adicionar arquivos indesejados acidentalmente
+$ git add --all
+Teste
